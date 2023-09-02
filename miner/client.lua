@@ -1,4 +1,4 @@
-local utils = require("utils")
+local utils = require("utils/utils")
 
 MODEM_ID = "computercraft:wireless_modem_advanced"
 
